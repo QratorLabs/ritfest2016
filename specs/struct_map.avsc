@@ -1,0 +1,487 @@
+{
+    "name": "StructMap",
+    "fields": [
+        {
+            "name": "long_name_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "long_key_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_key_name",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_key_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_long_name",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_name_long",
+            "type": "string"
+        },
+        {
+            "name": "name_long_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_long_name",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_name_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "key_name_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "long_key_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_long_key",
+            "type": "string"
+        },
+        {
+            "name": "key_name_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_name_key",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_long_key",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_key_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_key_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_long_name",
+            "type": "string"
+        },
+        {
+            "name": "long_key_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "key_name_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "key_name_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "name_long_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "name_long_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_foo_long",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_key_long",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "key_name_foo_long",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_key_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_long_key",
+            "type": "string"
+        },
+        {
+            "name": "key_long_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_name_long",
+            "type": "string"
+        },
+        {
+            "name": "long_name_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_name_long",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_key_name",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_key_name",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_foo_long",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_key_long",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_foo_long",
+            "type": "string"
+        },
+        {
+            "name": "long_key_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_name_long",
+            "type": "string"
+        },
+        {
+            "name": "key_long_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_key_name",
+            "type": "string"
+        },
+        {
+            "name": "long_name_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_name_key",
+            "type": "string"
+        },
+        {
+            "name": "name_long_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "long_key_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_key_foo_long",
+            "type": "string"
+        },
+        {
+            "name": "name_key_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "key_name_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_long_bar_foo",
+            "type": "string"
+        },
+        {
+            "name": "long_name_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_foo_name",
+            "type": "string"
+        },
+        {
+            "name": "key_long_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "name_key_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_name_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_name_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_key_name",
+            "type": "string"
+        },
+        {
+            "name": "key_long_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_name_long_key",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_long_foo",
+            "type": "string"
+        },
+        {
+            "name": "long_bar_name_key",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_long_key",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_long_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_key_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_key_name",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_key_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_long_key",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_name_bar",
+            "type": "string"
+        },
+        {
+            "name": "name_bar_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "long_name_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "long_name_key_bar",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_long_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_long_bar",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "key_long_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_long_name",
+            "type": "string"
+        },
+        {
+            "name": "foo_bar_name_key",
+            "type": "string"
+        },
+        {
+            "name": "key_bar_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_long_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "name_key_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_key_foo",
+            "type": "string"
+        },
+        {
+            "name": "long_key_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_long_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "foo_key_bar_name",
+            "type": "string"
+        },
+        {
+            "name": "name_foo_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_name_foo",
+            "type": "string"
+        },
+        {
+            "name": "name_long_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "long_foo_bar_key",
+            "type": "string"
+        },
+        {
+            "name": "key_foo_bar_long",
+            "type": "string"
+        },
+        {
+            "name": "bar_name_foo_key",
+            "type": "string"
+        },
+        {
+            "name": "bar_foo_name_key",
+            "type": "string"
+        },
+        {
+            "name": "key_long_foo_bar",
+            "type": "string"
+        },
+        {
+            "name": "bar_key_foo_long",
+            "type": "string"
+        }
+    ],
+    "namespace": "test.avro",
+    "type": "record"
+}

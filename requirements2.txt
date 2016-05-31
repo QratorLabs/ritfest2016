@@ -1,0 +1,12 @@
+cython
+monotonic
+
+avro==1.8.0
+bson==0.4.3
+fastavro==0.9.3
+msgpack-python==0.4.7
+protobuf==2.6.1
+thrift==0.9.3
+thriftpy==0.3.8
+thriftrw==1.2.4
+ujson==1.35

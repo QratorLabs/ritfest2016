@@ -1,0 +1,6 @@
+{
+    "namespace": "test.avro",
+    "name": "Array",
+    "type": "array",
+    "items": "string"
+}

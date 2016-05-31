@@ -1,0 +1,63 @@
+package test;
+
+import "struct_map.proto";
+
+
+message Str {
+  required string data = 1;
+}
+
+message Bin {
+  required bytes data = 1;
+}
+
+message Int {
+  required int32 data = 1;
+}
+
+message Float {
+  required double data = 1;
+}
+
+message Bool {
+  required bool data = 1;
+}
+
+message Array {
+  repeated string data = 1;
+}
+
+message MapEntry {
+  required string key = 1;
+  required string value = 2;
+}
+
+message Map {
+  repeated MapEntry data = 1;
+}
+
+message Struct10 {
+  required string f000000000 = 1;
+  required string f000000001 = 2;
+  required string f000000002 = 3;
+  required string f000000003 = 4;
+  required string f000000004 = 5;
+  required string f000000005 = 6;
+  required string f000000006 = 7;
+  required string f000000007 = 8;
+  required string f000000008 = 9;
+  required string f000000009 = 10;
+}
+
+message SimpleList {
+  repeated int32 ints = 1;
+}
+
+message Point {
+  required int32 x = 1;
+  required int32 y = 2;
+}
+
+message PointsList {
+  repeated Point points = 1;
+}

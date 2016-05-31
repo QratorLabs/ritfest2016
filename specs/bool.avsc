@@ -1,0 +1,5 @@
+{
+    "namespace": "test.avro",
+    "name": "Bool",
+    "type": "boolean"
+}

@@ -1,0 +1,10 @@
+cython
+
+bson==0.4.3
+cprotobuf==0.1.5
+fastavro==0.9.3
+msgpack-python==0.4.7
+protobuf3==0.2.1
+thriftpy==0.3.8
+thriftrw==1.2.4
+ujson==1.35

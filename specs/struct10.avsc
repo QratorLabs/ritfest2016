@@ -1,0 +1,17 @@
+{
+    "namespace": "test.avro",
+    "name": "Struct10",
+    "type": "record",
+    "fields": [
+        {"type": "string", "name": "f000000000"},
+        {"type": "string", "name": "f000000001"},
+        {"type": "string", "name": "f000000002"},
+        {"type": "string", "name": "f000000003"},
+        {"type": "string", "name": "f000000004"},
+        {"type": "string", "name": "f000000005"},
+        {"type": "string", "name": "f000000006"},
+        {"type": "string", "name": "f000000007"},
+        {"type": "string", "name": "f000000008"},
+        {"type": "string", "name": "f000000009"}
+    ]
+}
