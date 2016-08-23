@@ -1,3 +1,7 @@
+# Benchmark tool for serialization libraries for python
+
+http://backendconf.ru/2016/abstracts/2137.html
+
 ## Prepare your environment
 
 1. `make gendata` - [re]generates test data.
